@@ -1,0 +1,27 @@
+{
+  "totalAmount": 23996,
+  "userAddressList": [
+    {
+      "id": 2,
+      "userAddress": "北京市昌平区2",
+      "userId": 2,
+      "consignee": "admin",
+      "phoneNum": "15011111111",
+      "isDefault": "1"
+    }
+  ],
+  "tradeNo": "1b23c1efc8144bfc83e51807f4e71d3a",
+  "totalNum": 1,
+  "detailArrayList": [
+    {
+      "id": 45885,
+      "orderId": null,
+      "skuId": 4,
+      "skuName": "Apple iPhone 11 移动联通电信4G手机 双卡双待",
+      "imgUrl": "/images/floor-1-b01.png",
+      "orderPrice": 5999,
+      "skuNum": 4,
+      "hasStock": null
+    }
+  ]
+}
